@@ -12,4 +12,4 @@
   💙Cowork Tools💙<br>
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></p>
-    ![Mori's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunMori&show_icons=true&theme=transparent)
+![Mori's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunMori&show_icons=true&theme=transparent)
