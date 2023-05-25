@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mori%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Thank%20you%20for%20coming%20into%20my%20profile!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mori's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Thank%20you%20for%20coming%20into%20my%20profile!&descAlignY=51&descAlign=62)
 <p align="center">
 <Strong>☁️ My SNS list ☁️</Strong><br>
     <a href="https://www.instagram.com/wlem_1042/" target="_blank"><img src="https://img.shields.io/badge/instergram-000000?style=flat-square&logo=instagram&logoColor=#E4405F"/></a><br>
