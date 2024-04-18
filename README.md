@@ -2,7 +2,7 @@
 <p align="center">
 <Strong>☁️ My SNS list ☁️</Strong><br>
     <a href="https://www.instagram.com/wlem_1042/" target="_blank"><img src="https://img.shields.io/badge/instergram-000000?style=flat-square&logo=instagram&logoColor=#E4405F"/></a><br>
- <br> <Strong>📧My Email 📧</Strong><br>sbok10422@naver.com<br>
+ <br> <Strong>📧My Email 📧</Strong><br>sbok10422@gmail.com<br>
  <br> <strong>⚒️Tech Stack⚒️</Strong><br><br>
  🤍Language🤍<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br><br>
